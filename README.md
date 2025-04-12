@@ -5,6 +5,7 @@
 - HTML / CSS
 - JSON
 - SQL (PostgreSQL, MySQL)
+- PHP *(learning)*
 
 ### Tools & Frameworks
 - Django

@@ -13,10 +13,13 @@
 - Git & GitHub
 - VSCode
 - Vim / NeoVim
+- Alpine.js
 
 ### Other
 - AWS
 - CloudFlare
+- Nginx
+- Gunicorn
 - etc. (I forgot the rest lol)
 
 ---

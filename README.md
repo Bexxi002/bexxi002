@@ -20,7 +20,7 @@
 - CloudFlare
 - Nginx
 - Gunicorn
-- etc. (I forgot the rest lol)
+- Etc. (I forgot the rest lol)
 
 ---
 

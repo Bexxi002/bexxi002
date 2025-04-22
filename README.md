@@ -14,6 +14,7 @@
 - VSCode
 - Vim / NeoVim
 - Alpine.js
+- Vercel
 
 ### Other
 - AWS

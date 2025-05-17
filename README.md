@@ -1,27 +1,29 @@
 ### Languages
+- C / C++
 - Lua
-- JavaScript
 - Python
+- JavaScript
 - HTML / CSS
 - JSON
 - SQL (PostgreSQL, MySQL)
-- PHP *(learning)*
+- PHP
 
 ### Tools & Frameworks
 - Django
 - Docker
 - Git & GitHub
-- VSCode
-- Vim / NeoVim
+- VSCode / Vim / Neovim
 - Alpine.js
 - Vercel
+- EFI toolchains (EDK II, rEFInd)
+- Windows kernel development
+- Reverse engineering (Ghidra, IDA, x64dbg)
 
-### Other
-- AWS
-- CloudFlare
-- Nginx
-- Gunicorn
-- Etc. (I forgot the rest lol)
+### DevOps / Infra
+- AWS (EC2, S3, RDS, etc.)
+- Cloudflare
+- Nginx / Gunicorn
+- CI/CD (GitHub Actions, shell scripting)
 
 ---
 

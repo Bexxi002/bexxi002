@@ -1,5 +1,6 @@
 ### Languages
 - C / C++
+- C#
 - Lua
 - Python
 - JavaScript
